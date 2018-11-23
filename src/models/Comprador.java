@@ -63,4 +63,9 @@ public class Comprador {
         this.direccion = direccion;
     }
     
+    public String mostarDatos(){
+        return this.id+",\t"+this.nombre+" "+this.apellido+
+                ",\t"+this.direccion+",\t"+this.telefono;
+    }
+    
 }
