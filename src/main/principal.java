@@ -95,7 +95,7 @@ public class principal {
                     } while (subSeleccion!=0);
                 break;
                 case 2:
-
+                    
                 break;
                 case 3:
 
